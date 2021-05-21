@@ -1,0 +1,10 @@
+E:\kollege\github\Packedges_beta 0.1\bin\Debug\Packedges_beta 0.1.exe.config
+E:\kollege\github\Packedges_beta 0.1\bin\Debug\Packedges_beta 0.1.exe
+E:\kollege\github\Packedges_beta 0.1\bin\Debug\Packedges_beta 0.1.pdb
+E:\kollege\github\Packedges_beta 0.1\obj\Debug\Packedges_beta 0.1.csprojAssemblyReference.cache
+E:\kollege\github\Packedges_beta 0.1\obj\Debug\Packedges_beta_0._1.Form1.resources
+E:\kollege\github\Packedges_beta 0.1\obj\Debug\Packedges_beta_0._1.Properties.Resources.resources
+E:\kollege\github\Packedges_beta 0.1\obj\Debug\Packedges_beta 0.1.csproj.GenerateResource.cache
+E:\kollege\github\Packedges_beta 0.1\obj\Debug\Packedges_beta 0.1.csproj.CoreCompileInputs.cache
+E:\kollege\github\Packedges_beta 0.1\obj\Debug\Packedges_beta 0.1.exe
+E:\kollege\github\Packedges_beta 0.1\obj\Debug\Packedges_beta 0.1.pdb
