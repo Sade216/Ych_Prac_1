@@ -8,3 +8,4 @@ E:\kollege\github\Packedges_beta 0.1\obj\Debug\Packedges_beta 0.1.csproj.Generat
 E:\kollege\github\Packedges_beta 0.1\obj\Debug\Packedges_beta 0.1.csproj.CoreCompileInputs.cache
 E:\kollege\github\Packedges_beta 0.1\obj\Debug\Packedges_beta 0.1.exe
 E:\kollege\github\Packedges_beta 0.1\obj\Debug\Packedges_beta 0.1.pdb
+E:\kollege\github\Packedges_beta 0.1\obj\Debug\Packedges_beta_0._1.Form2.resources
