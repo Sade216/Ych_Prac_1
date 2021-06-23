@@ -1,11 +1,36 @@
 E:\kollege\github\Packedges_beta 0.1\bin\Debug\Packedges_beta 0.1.exe.config
 E:\kollege\github\Packedges_beta 0.1\bin\Debug\Packedges_beta 0.1.exe
 E:\kollege\github\Packedges_beta 0.1\bin\Debug\Packedges_beta 0.1.pdb
-E:\kollege\github\Packedges_beta 0.1\obj\Debug\Packedges_beta 0.1.csprojAssemblyReference.cache
 E:\kollege\github\Packedges_beta 0.1\obj\Debug\Packedges_beta_0._1.Form1.resources
 E:\kollege\github\Packedges_beta 0.1\obj\Debug\Packedges_beta_0._1.Properties.Resources.resources
 E:\kollege\github\Packedges_beta 0.1\obj\Debug\Packedges_beta 0.1.csproj.GenerateResource.cache
 E:\kollege\github\Packedges_beta 0.1\obj\Debug\Packedges_beta 0.1.csproj.CoreCompileInputs.cache
 E:\kollege\github\Packedges_beta 0.1\obj\Debug\Packedges_beta 0.1.exe
 E:\kollege\github\Packedges_beta 0.1\obj\Debug\Packedges_beta 0.1.pdb
+E:\kollege\github\Packedges_beta 0.1\bin\Debug\Packedges_beta 0.1.exe.manifest
+E:\kollege\github\Packedges_beta 0.1\bin\Debug\Packedges_beta 0.1.application
+E:\kollege\github\Packedges_beta 0.1\obj\Debug\Packedges_beta 0.1.exe.manifest
+E:\kollege\github\Packedges_beta 0.1\obj\Debug\Packedges_beta 0.1.application
+E:\kollege\github\Packedges_beta 0.1\obj\Debug\Packedges_beta_0._1.Form3.resources
+E:\kollege\github\Packedges_beta 0.1\obj\Debug\Packedges_beta_0._1.Form4.resources
+E:\kollege\github\Packedges_beta 0.1\obj\Debug\Packedges_beta_0._1.Form5.resources
+E:\kollege\github\Packedges_beta 0.1\obj\Debug\Packedges_beta 0.1.csproj.AssemblyReference.cache
 E:\kollege\github\Packedges_beta 0.1\obj\Debug\Packedges_beta_0._1.Form2.resources
+C:\Users\Наталья\Desktop\Packedges_beta 0.1\bin\Debug\Packedges_beta 0.1.exe.config
+C:\Users\Наталья\Desktop\Packedges_beta 0.1\bin\Debug\Packedges_beta 0.1.exe.manifest
+C:\Users\Наталья\Desktop\Packedges_beta 0.1\bin\Debug\Packedges_beta 0.1.application
+C:\Users\Наталья\Desktop\Packedges_beta 0.1\bin\Debug\Packedges_beta 0.1.exe
+C:\Users\Наталья\Desktop\Packedges_beta 0.1\bin\Debug\Packedges_beta 0.1.pdb
+C:\Users\Наталья\Desktop\Packedges_beta 0.1\obj\Debug\Packedges_beta 0.1.csproj.AssemblyReference.cache
+C:\Users\Наталья\Desktop\Packedges_beta 0.1\obj\Debug\Packedges_beta_0._1.Form1.resources
+C:\Users\Наталья\Desktop\Packedges_beta 0.1\obj\Debug\Packedges_beta_0._1.Form2.resources
+C:\Users\Наталья\Desktop\Packedges_beta 0.1\obj\Debug\Packedges_beta_0._1.Form3.resources
+C:\Users\Наталья\Desktop\Packedges_beta 0.1\obj\Debug\Packedges_beta_0._1.Form4.resources
+C:\Users\Наталья\Desktop\Packedges_beta 0.1\obj\Debug\Packedges_beta_0._1.Form5.resources
+C:\Users\Наталья\Desktop\Packedges_beta 0.1\obj\Debug\Packedges_beta_0._1.Properties.Resources.resources
+C:\Users\Наталья\Desktop\Packedges_beta 0.1\obj\Debug\Packedges_beta 0.1.csproj.GenerateResource.cache
+C:\Users\Наталья\Desktop\Packedges_beta 0.1\obj\Debug\Packedges_beta 0.1.csproj.CoreCompileInputs.cache
+C:\Users\Наталья\Desktop\Packedges_beta 0.1\obj\Debug\Packedges_beta 0.1.exe.manifest
+C:\Users\Наталья\Desktop\Packedges_beta 0.1\obj\Debug\Packedges_beta 0.1.application
+C:\Users\Наталья\Desktop\Packedges_beta 0.1\obj\Debug\Packedges_beta 0.1.exe
+C:\Users\Наталья\Desktop\Packedges_beta 0.1\obj\Debug\Packedges_beta 0.1.pdb
